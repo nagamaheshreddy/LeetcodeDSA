@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
