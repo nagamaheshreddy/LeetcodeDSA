@@ -11,7 +11,6 @@ public:
             maxi=max(maxi,height[i]);
             left[i]=maxi;
         }
-        cout<<" : ";
         maxi=0;
         for(int i=n-1;i>=0;i--){
             maxi=max(maxi,height[i]);
