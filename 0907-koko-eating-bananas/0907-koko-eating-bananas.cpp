@@ -4,7 +4,7 @@ public:
         long long reqHours=0;
 
         for(int i=0;i<piles.size();i++){
-            reqHours+=ceil(double(piles[i])/k);
+            reqHours+=ceil(piles[i]/(double)k);
         }
         return reqHours<=h;
     }
