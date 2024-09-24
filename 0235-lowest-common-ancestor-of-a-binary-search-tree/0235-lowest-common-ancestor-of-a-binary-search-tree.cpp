@@ -20,6 +20,6 @@ public:
         if(left && right)return root;
         if(left)return left;
         if(right)return right;
-        return nullptr;
+        return NULL;
     }
 };
