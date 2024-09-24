@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0567-permutation-in-string) |
@@ -199,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
