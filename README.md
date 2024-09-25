@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -201,12 +204,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0208-implement-trie-prefix-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
