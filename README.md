@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0907-koko-eating-bananas) |
+| [1127-last-stone-weight](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1127-last-stone-weight) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
