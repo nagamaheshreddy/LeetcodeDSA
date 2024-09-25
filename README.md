@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
@@ -251,4 +252,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
