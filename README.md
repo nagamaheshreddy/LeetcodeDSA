@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0739-daily-temperatures](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1014-k-closest-points-to-origin) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [1014-k-closest-points-to-origin](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 ## Matrix
 |  |
 | ------- |
