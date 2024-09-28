@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
+| [0695-max-area-of-island](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1014-k-closest-points-to-origin) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0695-max-area-of-island) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0695-max-area-of-island) |
 ## Linked List
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
