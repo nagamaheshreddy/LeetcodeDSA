@@ -21,9 +21,6 @@ public:
             }
         }
 
-        if(rotten==0 && fresh!=0)return -1;
-        if(rotten==0 && fresh==0)return 0;
-
         vector<int>dir_x={-1,1,0,0};
         vector<int>dir_y={0,0,-1,1};
 
