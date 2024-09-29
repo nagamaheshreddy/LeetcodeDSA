@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0191-number-of-1-bits) |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0210-course-schedule-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
