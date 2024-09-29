@@ -1,17 +1,18 @@
 class Solution {
 public:
-    void solve(int ind,vector<int>& cand,int target,vector<int>& subset,vector<vector<int>>& ans){
-        if(target<0 || ind>=cand.size())return;
+    void solve(int start,vector<int>& cand,int target,vector<int>& subset,vector<vector<int>>& ans){
+        if(target<0)return;
         if(target==0){
             ans.push_back(subset);
             return;
         }
 
-        solve(ind+1,cand,target,subset,ans);
 
-        subset.push_back(cand[ind]);
-        solve(ind,cand,target-cand[ind],subset,ans);
-        subset.pop_back();
+        for(int i=start;i<cand.size();i++){
+            subset.push_back(cand[i]);
+            solve(i,cand,target-cand[i],subset,ans);
+            subset.pop_back();
+        }
     }
     vector<vector<int>> combinationSum(vector<int>& cand, int target) {
         vector<vector<int>>ans;
