@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 ## Stack
@@ -326,4 +328,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
