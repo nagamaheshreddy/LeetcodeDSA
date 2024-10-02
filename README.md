@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0695-max-area-of-island](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1036-rotting-oranges) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
+| [0747-min-cost-climbing-stairs](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0747-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
