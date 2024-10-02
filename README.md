@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1014-k-closest-points-to-origin) |
 ## Tree
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0131-palindrome-partitioning) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
