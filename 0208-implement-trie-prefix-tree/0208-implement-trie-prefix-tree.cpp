@@ -1,22 +1,25 @@
-class TrieNode{
-public:
-    unordered_map<char,TrieNode*>mp;
-    bool isEnd=false;
-};
+class Node{
+    public:
+        unordered_map<char,Node*>mp;
+        bool isEnd;
 
+        Node(){
+            isEnd=false;
+        }
+};
 class Trie {
 public:
-    TrieNode* root;
+    Node* root;
+
     Trie() {
-        root=new TrieNode();
+        root=new Node();
     }
     
     void insert(string word) {
-        TrieNode* curr=root;
-        
+        Node* curr=root;
         for(char ch:word){
             if(curr->mp.find(ch)==curr->mp.end()){
-                curr->mp[ch]=new TrieNode();
+                curr->mp[ch]=new Node();
             }
             curr=curr->mp[ch];
         }
@@ -24,8 +27,7 @@ public:
     }
     
     bool search(string word) {
-        TrieNode* curr=root;
-        
+        Node* curr=root;
         for(char ch:word){
             if(curr->mp.find(ch)==curr->mp.end()){
                 return false;
@@ -35,16 +37,15 @@ public:
         return curr->isEnd;
     }
     
-    bool startsWith(string prefix) {
-        TrieNode* curr=root;
-        
-        for(char ch:prefix){
+    bool startsWith(string word) {
+        Node* curr=root;
+        for(char ch:word){
             if(curr->mp.find(ch)==curr->mp.end()){
                 return false;
             }
             curr=curr->mp[ch];
         }
-       return true; 
+        return true;
     }
 };
 
