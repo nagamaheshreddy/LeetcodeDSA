@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1397-search-suggestions-system) |
 | [1706-min-cost-to-connect-all-points](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0747-min-cost-climbing-stairs) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1036-rotting-oranges) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
