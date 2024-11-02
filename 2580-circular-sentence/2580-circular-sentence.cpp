@@ -1,12 +1,8 @@
 class Solution {
 public:
     bool isCircularSentence(string sentence) {
-        int n=sentence.size();
 
-        char first=sentence[0];
-        char last=sentence[n-1];
-
-        if(first!=last)return false;
+        if(sentence.front()!=sentence.back())return false;
 
         vector<string>words;
 
@@ -17,10 +13,11 @@ public:
             words.push_back(word);
         }
 
-        char prev=sentence[0];
+        string prev="";
+
         for(string word:words){
-            if(word[0]!=prev)return false;
-            prev=word[word.size()-1];
+            if(prev!="" && prev.back()!=word.front())return false;
+            prev=word;
         }
         return true;
     }
