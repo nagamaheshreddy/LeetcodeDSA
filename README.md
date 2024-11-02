@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0768-partition-labels) |
 | [1397-search-suggestions-system](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1397-search-suggestions-system) |
+| [2580-circular-sentence](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2580-circular-sentence) |
 ## Sliding Window
 |  |
 | ------- |
