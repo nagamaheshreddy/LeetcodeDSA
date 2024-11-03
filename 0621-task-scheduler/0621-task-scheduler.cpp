@@ -18,17 +18,17 @@ public:
         while(!pq.empty() || !q.empty()){
             time+=1;
 
-            if(!pq.empty()){
-                mp[pq.top().second]--;
-                if(mp[pq.top().second]>0){
-                    q.push({time+n,pq.top().second});
-                }
-                pq.pop();
-            }
-
             while(!q.empty() && q.front().first<=time){
                 pq.push({mp[q.front().second],q.front().second});
                 q.pop();
+            }
+
+            if(!pq.empty()){
+                mp[pq.top().second]--;
+                if(mp[pq.top().second]>0){
+                    q.push({time+n+1,pq.top().second});
+                }
+                pq.pop();
             }
 
         }
