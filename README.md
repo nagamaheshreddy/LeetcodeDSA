@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0768-partition-labels) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0747-min-cost-climbing-stairs) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1397-search-suggestions-system](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1397-search-suggestions-system) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0355-design-twitter) |
+| [0621-task-scheduler](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1127-last-stone-weight) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -215,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0768-partition-labels) |
 ## Matrix
 |  |
