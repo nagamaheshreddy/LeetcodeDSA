@@ -1,14 +1,16 @@
 class Solution {
 public:
 
-    void dfs(int ind,string digits,string currStr,vector<string>&ans,unordered_map<char,string>&mp){
+    void dfs(int ind,string digits,string &currStr,vector<string>&ans,unordered_map<char,string>&mp){
         if(currStr.size()==digits.size()){
             ans.push_back(currStr);
             return;
         }
 
         for(char ch:mp[digits[ind]]){
-            dfs(ind+1,digits,currStr+ch,ans,mp);
+            currStr+=ch;
+            dfs(ind+1,digits,currStr,ans,mp);
+            currStr.pop_back();
         }
     }
     vector<string> letterCombinations(string digits) {
