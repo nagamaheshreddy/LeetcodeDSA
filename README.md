@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0684-redundant-connection) |
 | [1706-min-cost-to-connect-all-points](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
+| [3189-find-champion-ii](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
