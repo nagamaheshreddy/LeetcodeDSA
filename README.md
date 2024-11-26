@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0768-partition-labels) |
+| [0874-backspace-string-compare](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0874-backspace-string-compare) |
 | [1397-search-suggestions-system](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1397-search-suggestions-system) |
 | [2580-circular-sentence](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2580-circular-sentence) |
 ## Sliding Window
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0768-partition-labels) |
+| [0874-backspace-string-compare](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0874-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -410,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
