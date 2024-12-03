@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0874-backspace-string-compare) |
 | [1397-search-suggestions-system](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1397-search-suggestions-system) |
+| [2232-adding-spaces-to-a-string](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2580-circular-sentence) |
 ## Sliding Window
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1397-search-suggestions-system) |
 | [1706-min-cost-to-connect-all-points](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
+| [2232-adding-spaces-to-a-string](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sorting
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0874-backspace-string-compare) |
+| [2232-adding-spaces-to-a-string](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2232-adding-spaces-to-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -417,4 +420,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0874-backspace-string-compare) |
+| [2232-adding-spaces-to-a-string](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
