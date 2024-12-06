@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0768-partition-labels) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1397-search-suggestions-system) |
 | [1706-min-cost-to-connect-all-points](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [2232-adding-spaces-to-a-string](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2232-adding-spaces-to-a-string) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sorting
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1397-search-suggestions-system](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1397-search-suggestions-system) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0907-koko-eating-bananas) |
 | [1397-search-suggestions-system](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1397-search-suggestions-system) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0768-partition-labels) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Matrix
 |  |
 | ------- |
