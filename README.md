@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0874-backspace-string-compare) |
 | [1397-search-suggestions-system](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1397-search-suggestions-system) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/2580-circular-sentence) |
 ## Sliding Window
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/0238-product-of-array-except-self) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/nagamaheshreddy/LeetcodeDSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Two Pointers
 |  |
 | ------- |
